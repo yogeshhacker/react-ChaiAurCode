@@ -1,0 +1,19 @@
+{
+    "name": "Project1",
+    "version": "1.0.0",
+    "description": "This is Project 1",
+    "main": "index.js",
+    "private": false,
+    "dependencies": {
+        "react": "^19.1.0",
+        "react-dom": "^19.1.0"  
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "author": "",
+    "license": "ISC"
+}
